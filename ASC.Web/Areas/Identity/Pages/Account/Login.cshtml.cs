@@ -17,6 +17,7 @@ using Microsoft.Extensions.Logging;
 
 namespace ASC.Web.Areas.Identity.Pages.Account
 {
+    
     public class LoginModel : PageModel
     {
         private readonly UserManager<IdentityUser> _userManager;

@@ -10,6 +10,22 @@ namespace ASC.Web.Data
         public async Task Seed(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager,
                                IOptions<ApplicationSettings> options)
         {
+
+            if (options == null)
+            {
+                throw new Exception("options is null");
+            }
+
+            if (options.Value == null)
+            {
+                throw new Exception("options.Value is null");
+            }
+
+            if (string.IsNullOrEmpty(options.Value.Roles))
+            {
+                throw new Exception("Roles in ApplicationSettings is null or empty");
+            }
+
             // Get all comma-separated roles
             var roles = options.Value.Roles.Split(new char[] { ',' });
 

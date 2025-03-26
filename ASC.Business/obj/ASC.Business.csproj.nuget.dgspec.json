@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {}
+    "E:\\My_WorkSpace\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {}
   },
   "projects": {
-    "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
+    "E:\\My_WorkSpace\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Business\\obj\\",
+        "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "packagesPath": "C:\\Users\\Win 11\\.nuget\\packages\\",
+        "outputPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               }
             }
           }
@@ -50,8 +47,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -72,25 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.DataAccess\\obj\\",
+        "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Win 11\\.nuget\\packages\\",
+        "outputPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,17 +90,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -122,8 +115,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -144,25 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+    "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Model\\obj\\",
+        "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "packagesPath": "C:\\Users\\Win 11\\.nuget\\packages\\",
+        "outputPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,6 +158,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -187,8 +176,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -219,25 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Hoang\\Lab4\\Lab4\\ASC_Solution\\ASC.Utilities\\obj\\",
+        "projectPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Win 11\\.nuget\\packages\\",
+        "outputPath": "E:\\My_WorkSpace\\ASC_Solution\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,6 +229,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -262,8 +247,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -294,7 +278,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

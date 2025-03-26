@@ -34,3 +34,16 @@ D:\Mon_Hoc\TH_Design_Software\Hoang\Lab4\Lab4\ASC_Solution\ASC.Utilities\obj\Deb
 D:\Mon_Hoc\TH_Design_Software\Hoang\Lab4\Lab4\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 D:\Mon_Hoc\TH_Design_Software\Hoang\Lab4\Lab4\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 D:\Mon_Hoc\TH_Design_Software\Hoang\Lab4\Lab4\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+E:\My_WorkSpace\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
